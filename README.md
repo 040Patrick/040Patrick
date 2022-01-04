@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**040Patrick/040Patrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Iae!! ✋✋✋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=040Patrick&show_icons=true&theme=dracula&count_private=true)
+
+
+
+
+
+
+<div style="display: inline_block">
+  <img align="center" alt="Pyhton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div><br/>
+
