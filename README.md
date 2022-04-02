@@ -7,15 +7,10 @@ Print(Olá, Mundo)...
 
 <div>
   
-
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickrescarollipe04&layout=compact&langs_count=7&theme=react" />
   
 </div>
 <br>
-
-
-
-
-
 
 ==============================================================================
 
@@ -27,6 +22,3 @@ Print(Olá, Mundo)...
 
 ==============================================================================
 
-<div>
-    ![Snake animation](https://github.com/Patrickrescarollipe04/Patrickrescarollipe04/blob/output/github-contribution-grid-snake.svg)
-</div>
