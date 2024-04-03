@@ -12,9 +12,3 @@
 <img align="left"  height="80" width="80" src="https://github.com/040Patrick/040Patrick/assets/96952344/e2c4ec62-8dd1-4e30-a947-d0a6c0186333">
 <img align="left"  height="80" width="80" src="https://github.com/040Patrick/040Patrick/assets/96952344/28973ca6-fabe-4a25-8f6c-f425aa31b833">
 </div>
-
-
-<hr>
-<hr>
-<hr>
-<hr>
