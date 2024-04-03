@@ -3,7 +3,7 @@
 
 <h1> I'm currently learning: </h1>
 
-<div align="left"> 
+<div align="center"> 
 <img align="left" height="84" width="84" src="https://github.com/040Patrick/040Patrick/assets/96952344/9207f350-c687-4527-b657-98ad3ec8324e">
 <img align="left" height="80" width="80" src="https://github.com/040Patrick/040Patrick/assets/96952344/c51dcf75-853e-406a-8e9a-8e437b18b692">
 <img align="left"  height="80" width="80" src="https://github.com/040Patrick/040Patrick/assets/96952344/f467ff3a-bc44-4c0d-9098-c7ae5cb3a846">
