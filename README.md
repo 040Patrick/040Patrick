@@ -2,10 +2,9 @@
 <img width=100% bottom=50px src="https://github.com/040Patrick/040Patrick/assets/96952344/120884ae-ba5c-4e0e-ad0e-fb9dc756f7e3"/>
 <br>
 <br>
-<br>
-
+<hr>
 <h2> <strong>I'm currently learning:</strong> </h2>
-<br>
+<hr>
 <br>
 <br>
 <div align="center"> 
