@@ -1,8 +1,8 @@
-<br>
+
 <br>
 <hr>
-<img width=100% bottom=50px src="https://github.com/040Patrick/040Patrick/assets/96952344/120884ae-ba5c-4e0e-ad0e-fb9dc756f7e3"/>
 <br>
+<img width=100% bottom=50px src="https://github.com/040Patrick/040Patrick/assets/96952344/120884ae-ba5c-4e0e-ad0e-fb9dc756f7e3"/>
 <br>
 <hr>
 <h1> <strong>I'm currently learning:</strong> </h1>
