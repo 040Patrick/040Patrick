@@ -4,7 +4,8 @@
 <br>
 <br>
 
-<p> I'm currently learning: </p>
+<h2> I'm currently learning: </h2>
+<br>
 <br>
 <br>
 <div align="center"> 
