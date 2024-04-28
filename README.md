@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h2> I'm currently learning: </h2>
+<h2> <strong>I'm currently learning:</strong> </h2>
 <br>
 <br>
 <br>
