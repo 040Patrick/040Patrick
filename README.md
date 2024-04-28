@@ -1,6 +1,11 @@
 
 <img width=100% bottom=50px src="https://github.com/040Patrick/040Patrick/assets/96952344/120884ae-ba5c-4e0e-ad0e-fb9dc756f7e3"/>
+<br>
+<br>
+<br>
 
+<p> I'm currently learning: </p>
+<br>
 <br>
 <div align="center"> 
 <img align="left" height="84" width="84" src="https://github.com/040Patrick/040Patrick/assets/96952344/9207f350-c687-4527-b657-98ad3ec8324e">
