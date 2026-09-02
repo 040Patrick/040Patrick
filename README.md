@@ -5,5 +5,5 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/040Patrick/040Patrick/output/github-snake.svg">
 </p>
