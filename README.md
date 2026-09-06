@@ -30,16 +30,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/040Patrick/040Patrick/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake"/>
+</p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=040Patrick&theme=dark" alt="GitHub Streak"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/040Patrick/040Patrick/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake"/>
 </p>
 
 ## 📫 Connect with me
