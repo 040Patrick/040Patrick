@@ -34,7 +34,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/040Patrick/040Patrick/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake"/>
 </p>
-<hr>
+
+<div align="center">
+  <div style="height: 1px; background-color: #30363d; width: 90%;"></div>
+</div>
 
 ## 🔥 GitHub Streak
 
