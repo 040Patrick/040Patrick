@@ -13,7 +13,7 @@
 - 💻 Backend Developer
 - 🚀 Focused on PHP & Laravel
 - 🗄️ Experience with MySQL and Redis
-- 🐧 Linux / WSL
+- 🐧 WSL
 - 🌱 Always learning and improving
 - 🔨 Currently learning and working on personal projects
   
