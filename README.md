@@ -30,10 +30,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
 
-<h2 align="center">🐍<strong>Contribution Snake</strong></h2>
+<hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/040Patrick/040Patrick/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake"/>
 </p>
+<hr>
 
 <div align="center">
   <div style="height: 1px; background-color: #30363d; width: 90%;"></div>
