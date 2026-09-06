@@ -21,22 +21,15 @@
 
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /> </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=040Patrick&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=040Patrick&layout=compact&theme=dark" height="170"/>
-</p>
-
 # ![snake gif](https://github.com/040Patrick/040Patrick/blob/output/github-contribution-grid-snake.gif)
 
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/patrick-rescarolli-594b46238/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="SEU_EMAIL">
+  <a href="mailto:patrickpeixer5@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
