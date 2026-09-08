@@ -46,7 +46,7 @@
   <img src="https://streak-stats.demolab.com?user=040Patrick&theme=dark" alt="GitHub Streak"/>
 </p>
 
-## 📫 Connect with me
+## 📫 Hit me up
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrick-rescarolli-594b46238/">
